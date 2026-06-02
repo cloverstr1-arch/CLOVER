@@ -1,0 +1,6 @@
+{
+  "name": "منظم السادس",
+  "description": "منظم دراسي ذكي وجدول يومي تفاعلي لطلاب السادس الإعدادي في العراق لتنظيم الوقت وتتبع الإنجاز والساعات اليومية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
